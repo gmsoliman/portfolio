@@ -51,7 +51,7 @@ body {
 }
 
 .home-inner {
-    background: url(/assets/wadi-rum.jpg) center center no-repeat;
+    background: url(./assets/wadi-rum.jpg) center center no-repeat;
     background-size: cover;
     position: fixed;
     display: table;
